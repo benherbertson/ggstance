@@ -23,7 +23,7 @@ Suggests:
     vdiffr
 License: GPL-3
 LazyData: true
-Remotes: lionel-/vdiffr
+Remotes: lionel-/vdiffr@test-skip
 RoxygenNote: 5.0.1
 svgliteNote: 1.1.0
 ggplot2Note: 2.1.0
