@@ -21,6 +21,8 @@ Suggests:
     magrittr,
     testthat,
     vdiffr
+Remotes:
+    lionel-/vdiffr@200a9d0
 License: GPL-3
 LazyData: true
 RoxygenNote: 5.0.1
